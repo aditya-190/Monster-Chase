@@ -1,15 +1,5 @@
 <h1 align="center">Monster Chase using Unity</h1>
 
-<p align="center">
-<img src="IMAGE LINK" width="180" height="180">
-</p>
-
-## 📜 Description:
-2-3 LINES ABOUT PROJECT
-
-## 📽 Sample Demo:
-MP4 PROJECT DEMO
-
 ## 🏗 Built With:
  - Unity
  - C#
